@@ -15,7 +15,8 @@ Boa sorte!✨
 
 <br>
 
-  _Desafio__
+  __Desafio__
+  <br>
 Constituído de duas partes: 
  <br> <br>
  
