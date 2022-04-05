@@ -34,7 +34,7 @@ Organizar o espaço onde estaremos trabalhando será fundamental para facilitar 
 Até a próxima! 
 
 
-__TODOS OS DIREITOS RESERVADOS A ESCOLA DIGITAL HOUSE CODING SCHOOL_
+__TODOS OS DIREITOS RESERVADOS A ESCOLA DIGITAL HOUSE CODING SCHOOL__
 <br> <br>
 
 <img href="https://vidadeempresa.com.br/wp-content/uploads/2021/02/curso.png" alt='logo ctd'/>
