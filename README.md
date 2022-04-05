@@ -1,4 +1,4 @@
-#__Aula 02 - Uso de Ferramentas__
+__Aula 02 - Uso de Ferramentas__
 
 <br>
 
