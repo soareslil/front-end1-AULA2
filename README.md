@@ -13,7 +13,7 @@ Boa sorte!✨
 
 
 <br>
-  ##__*Desafio*__
+  ##__Desafio__
 Constituído de duas partes: 
 1.Criar um wireframe 
 Baseado no e-commerce benchmark feito com o professor, em que foi possível identificar as principais partes do projeto, propomos-lhe criar o seu wireframe em papel onde você deve capturar os principais aspectos das informações coletadas. Quando terminar, te convidamos a enviar uma foto do seu trabalho para o Discord. 
