@@ -1,12 +1,13 @@
-__#Aula 02 - Uso de Ferramentas__
+__Aula 02 - Uso de Ferramentas__
 
 <br>
 
-##__Mesa de Trabalho__
+__Mesa de Trabalho__
 
 <br>
 
 ##__*Objetivos*__ 
+<br><br>
 Conhecer as ferramentas utilizadas pelos designers com quem vamos interagir, que irão nos fornecer os esboços para implementar. 
 Uma boa prática ao iniciar um projeto é ordenar as pastas que conterão arquivos diferentes no futuro. Nesse caso, seu objetivo será classificar os arquivos nas pastas correspondentes. 
 Boa sorte!✨ 
