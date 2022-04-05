@@ -1,6 +1,6 @@
 ## BEM VINDX AO MEU REPOSITÓRIO 👩‍💻👩‍💻✨
 
-### __Aula 02 -  BOAS VINDAS__
+### __Aula 02 -  USO DE FERRAMENTAS__
 
 <br>
 
