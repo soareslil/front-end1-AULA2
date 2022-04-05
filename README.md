@@ -40,7 +40,7 @@ __Conclusão__
 Até a próxima! 
 
 ### RESULTADO DO MEU PROJETO 
-[Link do projeto no ar ](https://gaganpreetkaurkalsi.netlify.app/)
+[Link do projeto no ar ](https://soareslil.github.io/front-end1-AULA2/)
 
 
 __TODOS OS DIREITOS RESERVADOS A ESCOLA DIGITAL HOUSE CODING SCHOOL__
