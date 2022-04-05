@@ -1,8 +1,8 @@
-__Aula 02 - Uso de Ferramentas__
+# __Aula 02 - Uso de Ferramentas__
 
 <br>
 
-__Mesa de Trabalho__
+## __Mesa de Trabalho__
 
 <br>
 
@@ -43,4 +43,4 @@ Até a próxima!
 __TODOS OS DIREITOS RESERVADOS A ESCOLA DIGITAL HOUSE CODING SCHOOL__
 <br> <br>
 
-<img href="https://vidadeempresa.com.br/wp-content/uploads/2021/02/curso.png" alt='logo ctd'/>
+![alt logo-ctd](https://vidadeempresa.com.br/wp-content/uploads/2021/02/curso.png)
