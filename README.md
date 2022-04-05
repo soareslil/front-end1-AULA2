@@ -35,9 +35,9 @@ O seguinte arquivo zip contém 3 arquivos: um arquivo HTML, um arquivo CSS e uma
 
 __Conclusão__ 
 
-Conhecer as ferramentas que você trabalha com design e compreender o processo de traduzir uma ideia em um layout é uma parte importante do trabalho de um desenvolvedor front- end 
+>Conhecer as ferramentas que você trabalha com design e compreender o processo de traduzir uma ideia em um layout é uma parte importante do trabalho de um desenvolvedor front- end 
 
-Organizar o espaço onde estaremos trabalhando será fundamental para facilitar a manutenção do nosso projeto. Isso será um grande benefício para toda a equipe que está trabalhando nele. E definir quais nomes serão usados ​​para arquivos e pastas nos ajudará a minimizar erros ao conectar os arquivos entre si. 
+>Organizar o espaço onde estaremos trabalhando será fundamental para facilitar a manutenção do nosso projeto. Isso será um grande benefício para toda a equipe que está trabalhando nele. E definir quais nomes serão usados ​​para arquivos e pastas nos ajudará a minimizar erros ao conectar os arquivos entre si. 
 
 Até a próxima! 
 
